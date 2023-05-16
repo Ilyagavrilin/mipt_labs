@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.12)  21 APR 2023 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.12)  22 APR 2023 11:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -994,7 +994,7 @@ Package rerunfilecheck Info: File `4.5.2.out' has not changed.
 Here is how much of TeX's memory you used:
  13943 strings out of 478659
  216324 string characters out of 2845920
- 544852 words of memory out of 3000000
+ 544959 words of memory out of 3000000
  31741 multiletter control sequences out of 15000+600000
  420123 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1014,7 +1014,7 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/gav
 ri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
 ers/gavri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on 4.5.2.pdf (7 pages, 731440 bytes).
+Output written on 4.5.2.pdf (7 pages, 731447 bytes).
 PDF statistics:
  305 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
