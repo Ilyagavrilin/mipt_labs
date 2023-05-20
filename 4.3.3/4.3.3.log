@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.12)  19 MAY 2023 00:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.12)  20 MAY 2023 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,26 +750,26 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (4.3.3.aux)
 \openout1 = `4.3.3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -831,7 +831,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \th on input line 64.
+LaTeX Info: Redefining \th on input line 65.
 
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2021/02/05 v3.0 ragged2e Package
@@ -850,7 +850,7 @@ Package: ragged2e 2021/02/05 v3.0 ragged2e Package
 \RaggedRightParindent=\skip79
 \JustifyingParindent=\skip80
 )
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 65.
 
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -864,9 +864,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count315
 )
-LaTeX Info: Redefining \ref on input line 64.
-LaTeX Info: Redefining \pageref on input line 64.
-LaTeX Info: Redefining \nameref on input line 64.
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
  (4.3.3.out) (4.3.3.out)
 \@outlinefile=\write3
 \openout3 = `4.3.3.out'.
@@ -877,196 +877,148 @@ Package caption Info: End \AtBeginDocument code.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 66.
+(Font)              using `T2A/cmr/m/n' instead on input line 67.
 
 LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 6
-6.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 66.
+7.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 67.
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 66.
+(Font)              using `PD1/pdf/m/n' instead on input line 67.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 66
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 67
 .
-LaTeX Font Info:    No file PUcmr.fd. on input line 66.
+LaTeX Font Info:    No file PUcmr.fd. on input line 67.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 66.
+(Font)              using `PU/pdf/m/n' instead on input line 67.
 
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
-6.
+7.
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 66.
+(Font)              using `OML/cmr/m/it' instead on input line 67.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 66.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 66.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 66.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 67.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-6.
+7.
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 66.
+(Font)              using `OMS/cmr/m/n' instead on input line 67.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
 
 
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 66
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 67
 .
 
 (C:\Users\gavri\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
 
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 78.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 79.
 
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \CYRL invalid in math mode on input line 78.
+LaTeX Warning: Command \CYRL invalid in math mode on input line 79.
 
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 78.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 79.
 
 Missing character: There is no � in font cmr12!
 <Screenshot_1.png, id=49, 625.58719pt x 438.13687pt>
 File: Screenshot_1.png Graphic file (type png)
 <use Screenshot_1.png>
-Package pdftex.def Info: Screenshot_1.png  used on input line 82.
+Package pdftex.def Info: Screenshot_1.png  used on input line 83.
 (pdftex.def)             Requested size: 378.42001pt x 265.03685pt.
 [1
 
 {C:/Users/gavri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 93.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 94.
 
 Missing character: There is no � in font cmr12!
 
-LaTeX Warning: Command \CYRP invalid in math mode on input line 94.
+LaTeX Warning: Command \CYRP invalid in math mode on input line 95.
 
 Missing character: There is no � in font cmr12!
 <Screenshot_2.png, id=67, 555.57562pt x 537.50812pt>
 File: Screenshot_2.png Graphic file (type png)
 <use Screenshot_2.png>
-Package pdftex.def Info: Screenshot_2.png  used on input line 102.
+Package pdftex.def Info: Screenshot_2.png  used on input line 103.
 (pdftex.def)             Requested size: 270.3012pt x 261.51129pt.
 [2 <./Screenshot_1.png>]
 <Screenshot_3.png, id=79, 944.7797pt x 276.28218pt>
 File: Screenshot_3.png Graphic file (type png)
 <use Screenshot_3.png>
-Package pdftex.def Info: Screenshot_3.png  used on input line 112.
+Package pdftex.def Info: Screenshot_3.png  used on input line 113.
 (pdftex.def)             Requested size: 432.48355pt x 126.47162pt.
  [3 <./Screenshot_2.png> <./Screenshot_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 154.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 156.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 156.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 156.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 156.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 157.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 157.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 157.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 157.
-
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
-Missing character: There is no � in font cmr12!
 <зависимость.png, id=95, 976.3677pt x 549.252pt>
 File: зависимость.png Graphic file (type png)
 <use зависимость.png>
-Package pdftex.def Info: зависимость.png  used on input line 187.
+Package pdftex.def Info: зависимость.png  used on input line 188.
 (pdftex.def)             Requested size: 432.48355pt x 243.28914pt.
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 192--203
+Underfull \hbox (badness 10000) in paragraph at lines 193--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--228
+Underfull \hbox (badness 10000) in paragraph at lines 217--229
 
  []
 
@@ -1080,7 +1032,7 @@ Package rerunfilecheck Info: File `4.3.3.out' has not changed.
 Here is how much of TeX's memory you used:
  16370 strings out of 478659
  266410 string characters out of 2845920
- 570683 words of memory out of 3000000
+ 571745 words of memory out of 3000000
  34098 multiletter control sequences out of 15000+600000
  422872 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1098,9 +1050,9 @@ ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gavri/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/gavri/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ga
 vri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 4.3.3.pdf (6 pages, 337145 bytes).
+Output written on 4.3.3.pdf (6 pages, 338813 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
+ 394 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
